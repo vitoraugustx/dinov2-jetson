@@ -1,3 +1,6 @@
+
+![dino_demo_maps_sc](https://github.com/user-attachments/assets/c1d5e9f1-ded3-4105-a200-29361e7090be)
+
 :new: [2023-10-26] *Added DINOv2 backbones with registers, following [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588).*
 
 # DINOv2: Learning Robust Visual Features without Supervision
