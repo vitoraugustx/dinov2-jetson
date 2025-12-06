@@ -1,9 +1,23 @@
+# DINOv2: Learning Robust Visual Features without Supervision
 
 ![dino_demo_maps_sc](https://github.com/user-attachments/assets/c1d5e9f1-ded3-4105-a200-29361e7090be)
 
-:new: [2023-10-26] *Added DINOv2 backbones with registers, following [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588).*
+## Jetson AGX Orin Setup
 
-# DINOv2: Learning Robust Visual Features without Supervision
+This repository has been adapted for NVIDIA Jetson AGX Orin using PyTorch for ARM architecture.
+
+**System Requirements:**
+- Device: NVIDIA Jetson AGX Orin
+- JetPack: 5.1.1
+- Python: 3.8.10
+- PyTorch: ARM64 architecture build
+
+For installation on Jetson devices, ensure you're using the PyTorch wheel compiled for ARM architecture compatible with your JetPack version.
+
+---
+
+🆕 [2023-10-26] *Added DINOv2 backbones with registers, following [Vision Transformers Need Registers](https://arxiv.org/abs/2309.16588).*
+
 
 **[Meta AI Research, FAIR](https://ai.facebook.com/research/)**
 
